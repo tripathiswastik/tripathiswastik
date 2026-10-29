@@ -120,6 +120,20 @@
 
 ---
 
+## 📜 License
+
+This project is open-source and licensed under the [MIT License](LICENSE).
+
+---
+
+## 🏷️ Repository Metadata & Topic Tags
+- **About Description**: Special repository configuring the GitHub profile banner & showcase for Swastik Tripathi — Enterprise Oracle SCM Architect × Applied GenAI / Agentic Systems Engineer.
+- **Core Topics**: `profile-readme` `oracle-scm` `genai` `agentic-ai` `langgraph` `edge-ai` `enterprise-architecture` `portfolio`
+- **Governance**: Follows [Antigravity AI Rules](file:///d:/ag-ai/.agents/rules/antigravity-rules.md) and [Multi-Agent SDLC Contracts](file:///d:/ag-ai/.agents/rules/multi-agent-prompts.md).
+
+---
+
 <div align="center">
   <sub>Engineered with precision and rigor. Licensed under open source standards.</sub>
 </div>
+
