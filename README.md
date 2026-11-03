@@ -3,7 +3,8 @@
 # ⚡ Swastik Tripathi
 ### Enterprise Oracle SCM Architect × Applied GenAI / Agentic Systems Engineer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Swastik%20Tripathi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tripathiswastik/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Swastik%20Tripathi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swastik-tripathi-52333511a/)
+[![Email](https://img.shields.io/badge/Email-swastik.tripathi842%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swastik.tripathi842@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-tripathiswastik-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tripathiswastik)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Oracle](https://img.shields.io/badge/Oracle-EBS%20%7C%20ASCP%20%7C%20VCP-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/scm/)
@@ -114,7 +115,8 @@
 
 ## 🤝 Let's Connect
 
-- 💼 **LinkedIn**: [linkedin.com/in/tripathiswastik](https://www.linkedin.com/in/tripathiswastik/)
+- 💼 **LinkedIn**: [linkedin.com/in/swastik-tripathi-52333511a](https://www.linkedin.com/in/swastik-tripathi-52333511a/)
+- ✉️ **Email**: [swastik.tripathi842@gmail.com](mailto:swastik.tripathi842@gmail.com)
 - 💻 **GitHub**: [github.com/tripathiswastik](https://github.com/tripathiswastik)
 - 🌐 **Interactive Portfolio Demo**: [Vector Graphics Audio Synthesizer](https://tripathiswastik.github.io/Vector-Graphics-Scripting/)
 
