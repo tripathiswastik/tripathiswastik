@@ -57,6 +57,7 @@
 - **Cryptographic Action Verification**: Action-bound ephemeral approval tokens with **SHA-256 state fingerprinting** (`{action}:{sid}:{serial}:{object}:{inst_id}`) and anti-replay registries preventing stale execution.
 - **Domain Document Intelligence**: Automated continuous auditing with **IBM Granite 3.0/4.2** and **IBM Docling**, enforcing strict GHG Protocol Scope 1–3 mathematical reconciliation, refusal without hallucination, and statutory framework alignment (**SEBI BRSR Core**, **CSRD ESRS**, **SASB**).
 - **Sub-50ms Streaming Edge Audio**: Multi-task causal chunk-based **WavLM** architectures with KV-cache persistence, **ArcFace angular hypersphere embeddings**, **Squeeze-and-Excitation CNNs**, and zero-lookahead static ONNX / NVIDIA TensorRT execution.
+- **Multimodal Diagnostic SOTA**: High-precision mathematical working diagnosis over phone photos of K-12 handwritten student work across a 75-class pedagogical taxonomy, achieving all-time peak SOTA (0.55049 MAP@3) via precision gating ($\tau=0.78, \epsilon=0.04$), transductive prior injection, and the Rank-1 Integrity Invariant.
 - **Agentic Evaluation Benchmarking**: Author of code-repair harnesses evaluated across frontier LLMs (Claude 3.5 Sonnet, GPT-4o, IBM Granite 3.0, Llama 3.3) measuring stateful repair, cent-precision tax math, and pass@1 rates.
 
 ---
@@ -67,10 +68,11 @@
 | :--- | :--- | :--- | :---: |
 | [**ASCP-Collections-Diagnostic-Agent**](https://github.com/tripathiswastik/ASCP-Collections-Agent-Setup) | **Enterprise GenAI Control Plane** | Autonomous LangGraph state machine diagnosing Oracle ASCP batch collection failures. Integrates Drain fixed-depth parse tree log analysis, recursive `V$LOCK` tree introspection, table-driven HITL gates, and ServiceNow ITSM dispatch. | [![View Repo](https://img.shields.io/badge/GitHub-Repository-blue?style=flat&logo=github)](https://github.com/tripathiswastik/ASCP-Collections-Agent-Setup) |
 | [**EcoGranite-Advisor**](https://github.com/tripathiswastik/EcoGranite-Advisor) | **IBM Granite 3.0 ESG Auditor** | Autonomous corporate sustainability compliance engine built for IBM SkillsBuild AI Builders Challenge. Ingests PDFs via IBM Docling, enforces GHG Scope 1-3 math reconciliation, and runs interactive Streamlit executive dashboard. | [![View Repo](https://img.shields.io/badge/GitHub-Repository-green?style=flat&logo=github)](https://github.com/tripathiswastik/EcoGranite-Advisor) |
+| [**misconception-detection**](https://github.com/tripathiswastik/misconception-detection) | **Multimodal Diagnostic SOTA** | High-precision diagnostic AI analyzing student handwritten math workings across a 75-class pedagogical taxonomy. Achieves all-time peak SOTA (0.55049 MAP@3) via precision-gated multimodal fusion and transductive priors. | [![View Repo](https://img.shields.io/badge/GitHub-Repository-red?style=flat&logo=github)](https://github.com/tripathiswastik/misconception-detection) |
 | [**terminal-bench-astra**](https://github.com/tripathiswastik/terminal-bench-astra) | **LLM Code-Repair Benchmark** | AI code-repair benchmark evaluating autonomous coding agents on multi-region payroll (US, UK, DE), chronological reconstruction, backward FX inheritance, and ACID SQLite ledger transaction safety under strict 45s timeouts. | [![View Repo](https://img.shields.io/badge/GitHub-Repository-orange?style=flat&logo=github)](https://github.com/tripathiswastik/terminal-bench-astra) |
 | [**Unified-Speech-Audio-Intelligence-Pipeline**](https://github.com/tripathiswastik/Unified-Speech-Audio-Intelligence-Pipeline) | **Edge Acoustic Intelligence** | Real-time multi-task streaming audio pipeline powered by causal WavLM backbone. Performs sub-50ms environmental sound classification, open-set ArcFace speaker verification, speech emotion recognition, and FastAPI WebSockets. | [![View Repo](https://img.shields.io/badge/GitHub-Repository-purple?style=flat&logo=github)](https://github.com/tripathiswastik/Unified-Speech-Audio-Intelligence-Pipeline) |
 | [**Vector-Graphics-Scripting**](https://github.com/tripathiswastik/Vector-Graphics-Scripting) | **Interactive Canvas & Audio Web App** | Kinetic HTML5 canvas and WebAudio synthesizer built with Paper.js and Howler.js. 26 procedurally animated geometric animations mapped to alphabet keystrokes and touch events. | [![Live Demo](https://img.shields.io/badge/Demo-Launch%20Live-brightgreen?style=flat&logo=googlechrome)](https://tripathiswastik.github.io/Vector-Graphics-Scripting/) |
-| [**Weekly-data-scaling-newsletter**](https://github.com/tripathiswastik/Weekly-data-scaling-newsletter) | **AI Scaling Laws & Pretraining Research** | Weekly research publication evaluating neural scaling laws, data quality vs. quantity tradeoffs, repetition limits, and compute-optimal pretraining mixtures with interactive reader quiz. | [![Live Newsletter](https://img.shields.io/badge/Live-Newsletter-brightgreen?style=flat&logo=googlechrome)](https://tripathiswastik.github.io/Weekly-data-scaling-newsletter/) |
+| [**Weekly-data-scaling-newsletter**](https://github.com/tripathiswastik/Weekly-data-scaling-newsletter) | **AI Scaling Laws & Pretraining Research** | Daily research publication evaluating neural scaling laws, data quality vs. quantity tradeoffs, repetition limits, tabular distribution shifts, and compute-optimal pretraining with interactive reader quiz. | [![Live Newsletter](https://img.shields.io/badge/Live-Newsletter-brightgreen?style=flat&logo=googlechrome)](https://tripathiswastik.github.io/Weekly-data-scaling-newsletter/) |
 
 ---
 
@@ -109,6 +111,13 @@
 │ • GHG Reconciliation Math: Enforced  │ • PyTorch CUDA Latency: 65.38ms      │
 │ • BRSR Core & CSRD ESRS Multi-Pillar │ • Numerical Parity: <= 2.38e-6       │
 │ • Hallucination Defense: Zero-Faking │ • UrbanSound8K Accuracy: 71.02%      │
+├──────────────────────────────────────┼──────────────────────────────────────┤
+│ K-12 Math Misconception Detection    │ Data, at Scale Daily Research Brief  │
+├──────────────────────────────────────┼──────────────────────────────────────┤
+│ • Public Leaderboard MAP@3: 0.55049 🏆│ • Autonomous Daily Publishing Cadence │
+│ • Precision Gating (tau=0.78,eps=0.04)│ • Client-Side Asia/Kolkata Scheduler │
+│ • ConvNeXt-448 Multimodal Distill    │ • Empirical Scaling Laws & Shift OOD │
+│ • 75-Code Taxonomy + Rank-1 Invariant │ • Zero-Dependency Interactive Quiz   │
 └──────────────────────────────────────┴──────────────────────────────────────┘
 ```
 
